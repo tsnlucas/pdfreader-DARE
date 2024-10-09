@@ -1,10 +1,10 @@
 # PDF Reader
 
-Um aplicativo simples para leitura de arquivos PDF e extração de informações relevantes, como número do DARE e data de vencimento.
+Um aplicativo simples para leitura de arquivos PDF e extração de informações relevantes da Guia DARE ICMS. O objetivo é facilitar a captura de dados importantes, evitando a necessidade de abrir cada arquivo individualmente.
 
 ## Funcionalidades
 
-- Abrir múltiplos arquivos PDF.
+- Abrir múltiplos arquivos PDF da Guia DARE ICMS.
 - Extrair informações como:
   - Número do DARE
   - Data de Vencimento
